@@ -1,0 +1,2 @@
+# ubuntu_dialogue
+Using RStudio, AWS EC2 CentOS Instance, I analyzed Ubuntu Dialogue Corpus data from Kaggle. The dataset consists of almost one million online conversations between Ubuntu technical support and Ubuntu users. Using NLP processing, hierarchical clustering, and K-means clustering, I identified the top ten most frequently occurring support topics. Then, given a random conversation, I attempted to identify the topic of the conversation using J. Breen's approach to sentiment analysis.
